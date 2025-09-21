@@ -1,5 +1,6 @@
 # vendor-perfromance-invetory-analysis-
 Vendor Performance & Inventory Analysis
+
 📌 Project Overview
 
 This project analyzes vendor performance and inventory management to uncover inefficiencies, optimize pricing, and improve profitability in the retail/wholesale industry. Using exploratory data analysis (EDA), the project identifies underperforming vendors, evaluates bulk purchasing advantages, and highlights inventory turnover challenges.
